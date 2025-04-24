@@ -1,0 +1,1 @@
+# 1227050026_Arief-Rahman-M_UTS_Prak_Pembelajaran_Mesin
