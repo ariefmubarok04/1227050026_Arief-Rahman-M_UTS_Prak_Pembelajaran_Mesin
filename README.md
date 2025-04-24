@@ -2,24 +2,24 @@
 # UTS Praktikum Pembelajaran Mesin  
 ## Naive Bayes – Klasifikasi Citrus (Jeruk vs Anggur)
 
-### 👤 Nama: Arief Rahman Mubarok  
-### 🆔 NIM: 1227050026  
+### Nama: Arief Rahman Mubarok  
+### NIM: 1227050026  
 
 ---
 
-## 📌 Deskripsi
+## Deskripsi
 Project ini bertujuan untuk membangun model klasifikasi buah (jeruk atau anggur) menggunakan algoritma **Naive Bayes** berdasarkan data fitur ukuran dan warna buah. Dataset yang digunakan berupa `citrus.csv`.
 
 ---
 
-## 🔧 Tools & Library
+## Tools & Library
 - Python 3.x
 - Pandas
 - scikit-learn
 
 ---
 
-## 🧪 Tahapan & Langkah-Langkah
+## Tahapan & Langkah-Langkah
 
 ### 1. **Import Library**
 Import pustaka yang dibutuhkan seperti `pandas`, `sklearn`, dan `os`.
@@ -50,12 +50,12 @@ Lihat beberapa data awal dan informasi dataset:
 
 ---
 
-## 📈 Hasil Evaluasi
+## Hasil Evaluasi
 Contoh hasil:
 - Akurasi: 92%
 - Confusion Matrix menunjukkan prediksi yang cukup seimbang antara kedua kelas
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 
